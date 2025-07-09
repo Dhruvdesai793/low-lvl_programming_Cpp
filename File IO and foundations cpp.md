@@ -39,6 +39,3 @@
     * `std::hex`: Displays numbers in hexadecimal. (Same as `std::setbase(16)`).
 
 ---
-* **Test** with `test.txt` and a larger binary file (e.g., `/bin/ls`).
-
-**After you've implemented the code, let me know your results, any compilation errors (copy-paste them!), or any new questions that arise from the coding.**
